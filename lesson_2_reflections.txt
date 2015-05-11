@@ -5,3 +5,24 @@ It lets git know that this directory (and subdirectories) are part of the reposi
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It lets you get files ready before committing them to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can think of the staging area like a queue, and ‘commit’ is the bouncer letting you into the ‘repository’ club. You can let one item at a time enter the repository, or you can let in multiple at once.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to try experimenting and create a variation from the main objective. Think of it as context switching.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps you track how the branches branch off.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The commits act as one branch. In the diagram, we can see where the head will be.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic - faster, but can’t handle complex situations.
+manually - slower, but can handle complex situations.
