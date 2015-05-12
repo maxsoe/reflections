@@ -17,3 +17,6 @@ You’ll be up to date.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We’d make sure everything is merged properly.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you don’t want to effect other people’s work. 
